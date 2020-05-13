@@ -366,7 +366,7 @@ h6 {
 #hero {
     width: 100%;
     height: calc(100vh - 72px);
-    background: url("../img/tim-zankert-1YFt4rpHKp0-unsplash.jpg") center center;
+    background: url("../img/hero.jpg") center center;
     background-size: cover;
     position: relative;
     margin-top: 72px;
