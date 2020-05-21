@@ -482,25 +482,6 @@ section {
 # About
 --------------------------------------------------------------*/
 
-.about h3 {
-    font-weight: 400;
-    font-size: 34px;
-    color: #21413c;
-    margin-bottom: 1.5rem;
-    text-align: center;
-}
-
-.about h4 {
-    font-size: 22px;
-    font-weight: 500;
-    margin-left: 0.5rem;
-}
-
-.about p {
-    font-size: 15px;
-    margin-left: 0.5rem;
-}
-
 .profile-img {
     width: 200px;
     height: 300px;
@@ -679,6 +660,9 @@ section {
         transition: 0.3s;
         position: relative;
         overflow: hidden;
+    }
+    .portfolio .portfolio-wrap .portfolio-info p {
+        margin-top: 2rem;
     }
 }
 
